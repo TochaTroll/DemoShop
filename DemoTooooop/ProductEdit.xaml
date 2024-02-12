@@ -1,0 +1,62 @@
+﻿<Window x:Class="DemoTooooop.ProductEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoTooooop"
+        mc:Ignorable="d"
+        Title="ProductEdit" Height="720" Width="1083" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="146*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250*"/>
+            <ColumnDefinition Width="699*"/>
+            <ColumnDefinition Width="200*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button Name="ButtonSave" Grid.Row="12" Content="Сохранить" FontSize="20" FontFamily="Comic Sans MS" Click="ButtonSave_Click" Cursor="Hand"/>
+        <TextBlock Text="Артикул:" FontSize="25" FontFamily="Comic Sans MS"/>
+        <TextBlock Text="Название:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="1"/>
+        <TextBlock Text="Описание:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="2"/>
+        <TextBlock Text="Категория:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="3"/>
+        <TextBlock Text="Кол-во:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="4"/>
+        <TextBlock Text="Ед.измерения:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="5"/>
+        <TextBlock Text="Поставщик:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="6"/>
+        <TextBlock Text="Макс.скидка:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="7"/>
+        <TextBlock Text="Скидка:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="8"/>
+        <TextBlock Text="Стоимость:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="9"/>
+        <TextBlock Text="Производитель:" FontSize="25" FontFamily="Comic Sans MS" Grid.Row="10"/>
+        
+
+
+        <TextBox Name="TextBoxProductArticleNumber" Text="{Binding Path=ProductArticleNumber}" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox Name="TextBoxProductName" Text="{Binding Path=ProductName}" Grid.Column="1" Grid.Row="1" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox Name="TextBoxProductDescription" Text="{Binding Path=ProductDescription}" Grid.Column="1" Grid.Row="2" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <ComboBox Name="ComboBoxCategory" SelectedItem="{Binding Path= Category}" DisplayMemberPath="NameCategory"  FontSize="20" FontFamily="Comic Sans MS" Grid.Column="1" Grid.Row="3" Height="30" Width="300" HorizontalAlignment="Left"/>
+        <TextBox Name="TextBoxProductQuantityInStock" Text="{Binding Path=ProductQuantityInStock}" Grid.Column="1" Grid.Row="4" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" PreviewTextInput="TextBoxProductQuantityInStock_PreviewTextInput" />
+        <TextBox Name="TextBoxProductUnit" Text="{Binding Path=ProductUnit}" Grid.Column="1" Grid.Row="5" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox Name="TextBoxProductProvider" Text="{Binding Path= ProductProvider}" Grid.Column="1" Grid.Row="6" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox Name="TextBoxProductDiscountAmount" Text="{Binding Path=ProductDiscountAmount}" Grid.Column="1" Grid.Row="7" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" PreviewTextInput="TextBoxProductDiscountAmount_PreviewTextInput" />
+        <TextBox Name="TextBoxProductSale" Text="{Binding Path=ProductSale}" Grid.Column="1" Grid.Row="8" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" PreviewTextInput="TextBoxProductSale_PreviewTextInput" />
+        <TextBox Name="TextBoxProductCost" Text="{Binding Path= ProductCost, StringFormat={}{0:N2}}" Grid.Column="1" Grid.Row="9" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" PreviewTextInput="TextBoxProductCost_PreviewTextInput" />
+        <TextBox Name="TextBoxProductManufacturer" Text="{Binding Path=ProductManufacturer}" Grid.Column="1" Grid.Row="10" FontSize="20" FontFamily="Comic Sans MS" Height="30" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        
+        
+
+
+    </Grid>
+</Window>

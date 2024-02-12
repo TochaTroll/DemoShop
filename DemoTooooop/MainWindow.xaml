@@ -1,0 +1,33 @@
+﻿<Window x:Class="DemoTooooop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoTooooop"
+        mc:Ignorable="d"
+        Title="Авторизация"  Height="450" Width="380" ResizeMode="NoResize"  >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="193*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="91*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Окно авторизации" FontSize="35" HorizontalAlignment="Center"  VerticalAlignment="Center" Grid.ColumnSpan="2" FontFamily="Comic Sans MS"/>
+        <TextBlock Grid.Row="1" Text="Логин:" FontFamily="Comic Sans MS" FontSize="25"/>
+        <TextBlock Grid.Row="2" Text="Пароль:" FontFamily="Comic Sans MS" FontSize="25"/>
+
+        <TextBox Name="TextBoxLogin" Grid.Column="1" Grid.Row="1" Width="200" HorizontalAlignment="Left" FontSize="20" FontFamily="Comic Sans MS" />
+        <TextBox Name="TextBoxPassword" Grid.Column="1" Grid.Row="2" Width="200" HorizontalAlignment="Left" FontSize="20" FontFamily="Comic Sans MS" />
+
+        <Button Name="ButtonTryToLoginInAccount" Content="Войти" FontFamily="Comic Sans MS" FontSize="25" Grid.Row="3" Grid.ColumnSpan="2" Height="50" Width="200" Background="#FF76E383" Cursor="Hand" Click="ButtonTryToLoginInAccount_Click" />
+        <Button Name="ButtonContinueAsGuest" Content="Войти как гость" FontFamily="Comic Sans MS" FontSize="25" Grid.Row="4" Grid.ColumnSpan="2" Height="50" Width="200" Background="#FF76E383" Cursor="Hand" Click="ButtonContinueAsGuest_Click" />
+
+
+    </Grid>
+</Window>

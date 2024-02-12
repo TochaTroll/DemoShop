@@ -1,0 +1,53 @@
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\DemoTooooop.exe.config
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\DemoTooooop.exe
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\DemoTooooop.pdb
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\EntityFramework.dll
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\EntityFramework.xml
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\bin\Debug\ru\EntityFramework.resources.dll
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoShop.csproj.AssemblyReference.cache
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoShop.csproj.SuggestedBindingRedirects.cache
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\MainWindow.g.cs
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\ProductEdit.g.cs
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\ProductView.g.cs
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\App.g.cs
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop_Content.g.cs
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop_MarkupCompile.cache
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop_MarkupCompile.lref
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\MainWindow.baml
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\ProductEdit.baml
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\ProductView.baml
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop.g.resources
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop.Properties.Resources.resources
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoShop.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoShop.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoShop.csproj.CopyComplete
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop.exe
+E:\Microsoft Visual Studio\Projekt\DemoTooooop\DemoTooooop\obj\Debug\DemoTooooop.pdb
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\DemoTooooop.exe.config
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\DemoTooooop.exe
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\DemoTooooop.pdb
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\EntityFramework.dll
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\EntityFramework.xml
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoShop.csproj.AssemblyReference.cache
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\MainWindow.g.cs
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\ProductEdit.g.cs
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\ProductView.g.cs
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\App.g.cs
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop_Content.g.cs
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop_MarkupCompile.cache
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop_MarkupCompile.lref
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\MainWindow.baml
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\ProductEdit.baml
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\ProductView.baml
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop.g.resources
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop.Properties.Resources.resources
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoShop.csproj.GenerateResource.cache
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoShop.csproj.CoreCompileInputs.cache
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoShop.csproj.CopyComplete
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop.exe
+C:\Users\goga0\OneDrive\Рабочий стол\Shop-main\DemoTooooop\obj\Debug\DemoTooooop.pdb
